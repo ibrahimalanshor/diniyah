@@ -1,5 +1,9 @@
 ---
+import { getCollection } from 'astro:content';
 import '../styles/global.css';
+import { Font } from 'astro:assets';
+
+const sections = await getCollection('section');
 ---
 
 <html lang="en">
@@ -10,8 +14,24 @@ import '../styles/global.css';
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
+    <Font cssVariable="--font-google" />
+    <Font cssVariable="--font-noto-kufi-arabic" />
   </head>
-  <body>
-    <h1>Astro</h1>
+  <body class="bg-neutral-100 px-4 py-4 md:py-10 xl:py-20">
+    <main
+      class="bg-white prose prose-neutral mx-auto p-6 rounded-lg shadow-xl shadow-neutral-300/25"
+    >
+      <h1 dir="rtl">الدينية</h1>
+
+      <ul>
+        {
+          sections.map((section) => (
+            <li>
+              <a href={section.id}>{section.data.title}</a>
+            </li>
+          ))
+        }
+      </ul>
+    </main>
   </body>
 </html>

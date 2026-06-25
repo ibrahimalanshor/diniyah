@@ -1,1 +1,14 @@
 @import 'tailwindcss';
+
+@plugin "@tailwindcss/typography";
+
+@theme inline {
+  --font-sans: var(--font-google);
+  --font-arab: var(--font-noto-kufi-arabic);
+}
+
+@layer base {
+  [dir='rtl'] {
+    font-family: var(--font-arab);
+  }
+}
