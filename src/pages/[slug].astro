@@ -1,27 +1,49 @@
 ---
 import { getCollection } from 'astro:content';
 import Default from '../layouts/Default.astro';
-import Card from '../components/base/Card.astro';
+import SectionCard from '../components/section/SectionCard.astro';
+import ArticleCard from '../components/article/ArticleCard.astro';
+import type { CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
   const sections = await getCollection('section');
+  const articles = await getCollection('article');
 
-  return sections.map((section) => {
+  const sectionsRoute = sections.map((section) => {
     return {
       params: {
         slug: section.id,
       },
-      props: { section },
+      props: { type: 'section', section },
     };
   });
+  const articlesRoute = articles.map((article) => {
+    return {
+      params: {
+        slug: article.id,
+      },
+      props: { type: 'article', article },
+    };
+  });
+
+  return [...sectionsRoute, ...articlesRoute];
 }
 
-const { section } = Astro.props;
+interface Props {
+  section: CollectionEntry<'section'>;
+  article: CollectionEntry<'article'>;
+  type: 'section' | 'article';
+}
+
+const { section, article, type } = Astro.props;
 ---
 
 <Default>
-  <Card class="prose prose-neutral mx-auto">
-    <h1>{section.data.title}</h1>
-    <p>{section.data.description}</p>
-  </Card>
+  {
+    type === 'section' ? (
+      <SectionCard section={section} />
+    ) : (
+      <ArticleCard article={article} />
+    )
+  }
 </Default>

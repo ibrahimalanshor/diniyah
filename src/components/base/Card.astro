@@ -1,5 +1,9 @@
-<main
-  class={`bg-white p-6 rounded-lg shadow-xl shadow-neutral-300/25 ${Astro.props.class ?? ''}`}
+---
+const { tag: Tag = 'div', class: classList = '' } = Astro.props;
+---
+
+<Tag
+  class={`bg-white p-6 rounded-lg shadow-xl shadow-neutral-300/25 ${classList}`}
 >
   <slot />
-</main>
+</Tag>

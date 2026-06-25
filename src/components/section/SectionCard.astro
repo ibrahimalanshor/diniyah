@@ -1,0 +1,30 @@
+---
+import { getCollection } from 'astro:content';
+import Card from '../base/Card.astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  section: CollectionEntry<'section'>;
+}
+
+const { section } = Astro.props;
+const articles = await getCollection(
+  'article',
+  (article) => article.data.section.id === section.id,
+);
+---
+
+<Card tag="main" class="prose prose-lg prose-neutral mx-auto">
+  <h1>{section.data.title}</h1>
+  <p>{section.data.description}</p>
+
+  <ul>
+    {
+      articles.map((article) => (
+        <li>
+          <a href={`/${article.id}`}>{article.data.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+</Card>
