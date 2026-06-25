@@ -6,6 +6,7 @@ const section = defineCollection({
   loader: file('./src/content/sections.json'),
   schema: z.object({
     title: z.string(),
+    description: z.string(),
   }),
 });
 
