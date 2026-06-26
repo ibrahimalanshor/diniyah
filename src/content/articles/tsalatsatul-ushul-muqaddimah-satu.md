@@ -11,7 +11,13 @@ section: syarah-ushul-tsalatsah
 
 _Setiap perkara penting yang di dalamnya tidak dimulai dengan "bismillahirrahmaanirrahiim" maka dia terputus (dari rahmat Allah)_. (HR. Abu Hurairah) [^1]
 
-## Fitnah Kubur
+## 4 Hal yang Wajib Diketahui Setiap Manusia
+
+### 1. Wajib Berilmu
+
+Di antara ilmu yang wajib diketahui adalah mengenal Allah ﷻ, Nabi Muhammad ﷺ dan agama Islam. Karena ini akan ditanyakan di alam barzakh ketika kita mati (fitnah kubur).
+
+#### Fitnah Kubur
 
 Ketika manusia mati, dia akan ditanya oleh malaikat di alam barzakh dengan tiga pertanyaan:
 
@@ -37,6 +43,75 @@ Yang tidak bisa menjawab fitnah kubur akan mendapatkan **adzab kubur**.
 
 _Dua malaikat datang kepadanya (mayit orang kafir), lalu mendudukannya, lalu bertanya kepadanya: "Siapa Rabb-mu?" Dia menjawab: "Ha ha aku tidak tahu". Lalu dua malaikat bertanya kepadanya: "Apa agamamu?" Dia menjawab: "Ha ha aku tidak tahu". Lalu dua malaikat bertanya kepadanya: "Siapa pria ini yang telah diutus kepadamu?" Dia menjawab "Ha ha aku tidak tahu". Lalu ada yang menyeru dari langit: "Dia telah berdusta, bentangkan untuknya dari neraka, sandangkan baginya pakaian dari neraka dan bukakkan baginya satu pintu menuju neraga" Nabi bersabda: "Maka sebagian hawa dan angin panas neraka pun menerpanya" Nabi bersabda: "Kemduian kuburnya menghimpitnya sampai tulang-tulang rusuknya bersilangan"_. (HR. Abu Dawud: 4754) [^2]
 
+### 2. Wajib Mengamalkan Ilmu
+
+Jika ilmu tidak diamalkan maka akan menjadi bumerang pemiliknya.
+
+<p dir="rtl">
+القرآن حجة كل أو عليك
+</p>
+
+_Al-Qur'an itu hujjah bagimu (mendukungmu) atau hujjah atasmu (melawanmu)_. (HR. Muslim: 223) [^3]
+
+### 3. Wajib Mendakwahkan Ilmu
+
+Nabi ﷺ bersabda:
+
+<p dir="rtl">
+بلغوا عني ولو آية
+</p>
+
+_Sampaikanlah dariku (ajaran-ajaranku) meskipun hanya satu ayat_. (HR. Al-Bukhari: 3461) [^4]
+
+### 4. Wajib Sabar dalam Berdakwah
+
+Orang yang berdakwah pasti akan diganggu. Maka dengarkanlah nasihat Lukman kepada anaknya agar besabar dalam berdakwah.
+
+<p dir="rtl">
+يبنى أقم الصلوة وأمر بالمعروف وانه عن المنكر وصبر على ما أصابك إن ذلك من عزم الأمور
+</p>
+
+_Wahai anakku! Dirikanlah solat dan suruhlah (manusia) mengerjakan yang baik dan cegahlah (mereka) dari perbuatan yang buruk dan bersabarlah atas apa yang menimpamu. Sungguh, yang demikian itu termasuk hal-hal yang diwajibkan (oleh Allah)_. (QS. Lukman: 17) [^5]
+
+## Surah Al-'Asr: Dalil Wajibnya 4 Hal Tersebut
+
+<p dir="rtl">
+والعصر (1) إن الإنسان لفي خسر (2) إلا الذين آمنوا وعملوا الصالحات وتواصوا بالحق وتواصوا بالصبر (3)
+</p>
+
+_Demi masa. Sesungguhnya manusia benar-benar di dalam kerugian. Kecuali orang-orang yang beriman, mengerjakan amal saleh, saling menasihati supaya menaati kebenaran dan saling menasihati supaya menetapi kesabaran_. (QS. Al-'Ashr: 1-3) [^6]
+
+Empat hal di atas adalah cara untuk selamat dari kerugian:
+
+1. Beriman, iman memnutuhkan ilmu.
+2. Beramal saleh.
+3. Saling menasihati supaya menaati kebenaran (dakwah).
+4. Saling menasihati supaya menetapi kesabaran (bersabar).
+
+Imam Syafi'i _rahimahullah_ berkata: _"Seandainya Allah tidak menurunkan suatu hujjah kepada makhluk-Nya selain surat ini, maka surat ini sudah cukup bagi mereka"_.
+
+## Harus Mengetahui Ilmu sebelum Berucap dan Beramal
+
+Allah ﷻ berfirman:
+
+<p dir="rtl">
+فاعلم أنه لا إله إلا الله واستغفر لذنبك
+</p>
+
+_Maka Ketahuilah, bahwa sesungguhnya tidak ada tuhan (yang berhak disembah) selain Allah dan mohonlah ampunan bagi dosamu_. (QS. Muhammad: 19) [^7]
+
+Allah ﷻ memulai ayat ini dengan perintah berilmu (ketahuilah) sebelum berucap (kalimat tauhid) dan beramal (memohon ampun).
+
 [^1]: [HR. Abu Hurairah](https://dorar.net/h/wjmGnIMn)
 
 [^2]: [HR. Abu Dawud: 4753](https://dorar.net/h/9S1x15AI)
+
+[^3]: [HR. Muslim: 223](https://dorar.net/h/TvSSnRwa?osoul=1)
+
+[^4]: [HR. Al-Bukhari: 3461](https://dorar.net/h/I31nZp4n?osoul=1)
+
+[^5]: [QS. Lukman: 17](https://tafsirweb.com/7501-surat-luqman-ayat-17.html)
+
+[^6]: [QS. Al-'Ashr: 1-3](https://tafsirweb.com/37385-surat-al-ashr-lengkap.html)
+
+[^7]: [QS. Muhammad: 19](https://tafsirweb.com/9655-surat-muhammad-ayat-19.html)

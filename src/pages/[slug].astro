@@ -1,8 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 import Default from '../layouts/Default.astro';
-import SectionCard from '../components/section/SectionCard.astro';
-import ArticleCard from '../components/article/ArticleCard.astro';
+import SectionDetail from '../components/section/SectionDetail.astro';
+import ArticleDetail from '../components/article/ArticleDetail.astro';
 import type { CollectionEntry } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -41,9 +41,9 @@ const { section, article, type } = Astro.props;
 <Default>
   {
     type === 'section' ? (
-      <SectionCard section={section} />
+      <SectionDetail section={section} />
     ) : (
-      <ArticleCard article={article} />
+      <ArticleDetail article={article} />
     )
   }
 </Default>

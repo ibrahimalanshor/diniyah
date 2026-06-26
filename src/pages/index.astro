@@ -1,13 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import Default from '../layouts/Default.astro';
-import Card from '../components/base/Card.astro';
 
 const sections = await getCollection('section');
 ---
 
 <Default>
-  <Card tag="main" class="prose prose-neutral mx-auto">
+  <main class="prose prose-neutral mx-auto">
     <h1 dir="rtl">الدينية</h1>
 
     <ul>
@@ -19,5 +18,5 @@ const sections = await getCollection('section');
         ))
       }
     </ul>
-  </Card>
+  </main>
 </Default>

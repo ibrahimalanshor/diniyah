@@ -1,7 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import { render } from 'astro:content';
-import Card from '../base/Card.astro';
 
 interface Props {
   article: CollectionEntry<'article'>;
@@ -12,8 +11,8 @@ const { article } = Astro.props;
 const { Content } = await render(article);
 ---
 
-<Card tag="main" class="prose prose-lg prose-neutral mx-auto">
+<div class="prose prose-lg prose-neutral mx-auto">
   <h1>{article.data.title}</h1>
 
   <Content />
-</Card>
+</div>
