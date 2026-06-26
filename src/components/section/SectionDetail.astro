@@ -1,16 +1,13 @@
 ---
-import { getCollection } from 'astro:content';
 import type { CollectionEntry } from 'astro:content';
+import { getArticles } from '../../utils/section';
 
 interface Props {
   section: CollectionEntry<'section'>;
 }
 
 const { section } = Astro.props;
-const articles = await getCollection(
-  'article',
-  (article) => article.data.section.id === section.id,
-);
+const articles = await getArticles(section);
 ---
 
 <div class="prose prose-lg prose-neutral mx-auto">

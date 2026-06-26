@@ -1,6 +1,8 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import { getEntry } from 'astro:content';
 import { render } from 'astro:content';
+import { getArticles } from '../../utils/section';
 
 interface Props {
   article: CollectionEntry<'article'>;
@@ -9,10 +11,39 @@ interface Props {
 const { article } = Astro.props;
 
 const { Content } = await render(article);
+const section = await getEntry('section', article.data.section.id);
+const sectionArticles = await getArticles(section!);
+
+const currentArticleIndex = sectionArticles.findIndex(
+  (articleSection) => articleSection.id === article.id,
+);
+const prevArticle = sectionArticles[currentArticleIndex - 1];
+const nextArticle = sectionArticles[currentArticleIndex + 1];
 ---
 
 <div class="prose prose-lg prose-neutral mx-auto">
+  <p>
+    <a href={`/${section?.id}`}>{section?.data.title}</a>
+  </p>
   <h1>{article.data.title}</h1>
 
   <Content />
+
+  <hr />
+
+  {
+    prevArticle && (
+      <p>
+        Sebelumnya: <a href={`/${prevArticle.id}`}>{prevArticle.data.title}</a>
+      </p>
+    )
+  }
+
+  {
+    nextArticle && (
+      <p>
+        Selanjutnya: <a href={`/${nextArticle.id}`}>{nextArticle.data.title}</a>
+      </p>
+    )
+  }
 </div>

@@ -1,6 +1,7 @@
 ---
 title: 'Tsalatsatul Ushul: Muqaddimah 1'
 section: syarah-ushul-tsalatsah
+publishedAt: 2026-06-26 06:00:00
 ---
 
 ## Sunnah Memulai Tulisan dengan Basmalah
