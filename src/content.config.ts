@@ -15,6 +15,7 @@ const article = defineCollection({
   schema: z.object({
     title: z.string(),
     section: reference('section'),
+    publishedAt: z.date(),
   }),
 });
 
