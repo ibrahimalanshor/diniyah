@@ -7,15 +7,20 @@ const section = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string(),
+    publishedAt: z.coerce.date(),
   }),
 });
 
 const article = defineCollection({
-  loader: glob({ base: './src/content/articles', pattern: '**/*.md' }),
+  loader: glob({
+    base: './src/content/articles',
+    pattern: '**/*.md',
+    generateId: ({ entry }) => entry.split('/')[1].replace(/\.md$/, ''),
+  }),
   schema: z.object({
     title: z.string(),
     section: reference('section'),
-    publishedAt: z.date(),
+    publishedAt: z.coerce.date(),
   }),
 });
 

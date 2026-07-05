@@ -2,6 +2,13 @@
     {
         "id": "syarah-ushul-tsalatsah",
         "title": "Syarah Ushul Tsalatsah",
-        "description": "Karya Syaikh Muhammad bin Abdul Wahhab (1115-1206 H)"
+        "description": "Karya Syaikh Muhammad bin Abdul Wahhab (1115-1206 H)",
+        "publishedAt": "2026-06-26 06:00:00"
+    },
+    {
+        "id": "syarah-al-qawaid-al-arba",
+        "title": "Syarah Al-Qawaid Al-Arba'",
+        "description": "Karya Syaikh Muhammad bin Abdul Wahhab (1115-1206 H)",
+        "publishedAt": "2026-07-06 06:00:00"
     }
 ]
