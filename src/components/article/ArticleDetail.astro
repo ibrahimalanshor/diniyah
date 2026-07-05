@@ -23,7 +23,7 @@ const nextArticle = sectionArticles[currentArticleIndex + 1];
 
 <div class="prose prose-lg prose-neutral mx-auto">
   <p>
-    <a href={`/${section?.id}`}>{section?.data.title}</a>
+    <a href={`/diniyah/${section?.id}`}>{section?.data.title}</a>
   </p>
   <h1>{article.data.title}</h1>
 
@@ -34,7 +34,8 @@ const nextArticle = sectionArticles[currentArticleIndex + 1];
   {
     prevArticle && (
       <p>
-        Sebelumnya: <a href={`/${prevArticle.id}`}>{prevArticle.data.title}</a>
+        Sebelumnya:{' '}
+        <a href={`/diniyah/${prevArticle.id}`}>{prevArticle.data.title}</a>
       </p>
     )
   }
@@ -42,7 +43,8 @@ const nextArticle = sectionArticles[currentArticleIndex + 1];
   {
     nextArticle && (
       <p>
-        Selanjutnya: <a href={`/${nextArticle.id}`}>{nextArticle.data.title}</a>
+        Selanjutnya:{' '}
+        <a href={`/diniyah/${nextArticle.id}`}>{nextArticle.data.title}</a>
       </p>
     )
   }

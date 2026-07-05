@@ -11,6 +11,10 @@ const articles = await getArticles(section);
 ---
 
 <div class="prose prose-lg prose-neutral mx-auto">
+  <p>
+    <a href={`/diniyah`}>Beranda</a>
+  </p>
+
   <h1>{section.data.title}</h1>
   <p>{section.data.description}</p>
 
@@ -18,7 +22,7 @@ const articles = await getArticles(section);
     {
       articles.map((article) => (
         <li>
-          <a href={`/${article.id}`}>{article.data.title}</a>
+          <a href={`/diniyah/${article.id}`}>{article.data.title}</a>
         </li>
       ))
     }
