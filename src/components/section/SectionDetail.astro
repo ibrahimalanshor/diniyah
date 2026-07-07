@@ -22,7 +22,7 @@ const articles = await getArticles(section);
     {
       articles.map((article) => (
         <li>
-          <a href={`/diniyah/${article.id}`}>{article.id}</a>
+          <a href={`/diniyah/${article.id}`}>{article.data.title}</a>
         </li>
       ))
     }
