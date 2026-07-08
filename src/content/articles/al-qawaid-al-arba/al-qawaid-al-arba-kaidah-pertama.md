@@ -6,6 +6,8 @@ publishedAt: 2026-07-08 06:00:00
 
 Kaum musyrikin Quraisy mengakui Allah ﷻ Sang Pencipta, Pemberi Rizki, Pengatur, Yang Menghidupkan dan yang Mematikan.
 
+Tetapi keyakinan itu tidak membuat mereka masuk Islam dan mereka tetap diperangi oleh Rasul ﷺ. Karena mereka melakukan syirik dalam ibadah kepada Allah ﷻ.
+
 Allah ﷻ berfirman:
 
 <p dir="rtl">
@@ -79,6 +81,8 @@ Allah ﷻ berfirman:
 _Dan sebagian besar dari mereka tidak beriman kepada Allah, melainkan dalam keadaan mensekutukan Allah (dengan sesembahan-sesembahan yang lain)_. (QS. Yusuf: 106) [^8]
 
 Tafsir dari Ibnu Abbas _radhiyallahu 'anhu_ maksudnya adalah mereka beriman kepada Allah ﷻ Sang Pencipta, Pemberi Rizki (tahuid rububiyyah) tapi mereka juga syirik kepada Allah dalam beribadah kepada Allah (tauhid uluhiyyah).
+
+Akibat kesyirikan mereka pada tauhid uluhiyyah maka mereka tidak disebut orang Islam dan mereka diperangi Rasul ﷺ.
 
 [^1]: [QS. Yunus: 31](https://tafsirweb.com/3305-surat-yunus-ayat-31.html)
 
