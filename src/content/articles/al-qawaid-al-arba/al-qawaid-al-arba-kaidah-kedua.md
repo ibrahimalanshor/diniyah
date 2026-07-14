@@ -89,6 +89,12 @@ Semua Rasul berdoa "selamatkan-selamatkan" untuk umatnya ketika di shirath (jemb
 
 _Sebuah jembatan akan dibentangkan di atas neraka; dan aku (Nabi) dan umatku akan menjadi yang pertama melaluinya; dan tidak ada yang berbicara pada hari itu, kecuali para rasul, dan doa para rasul pada hari itu adalah: "Ya Allah! Selamatkan-Selamatkan."_. (HR. Muslim: 182) [^7]
 
+### Mintalah Syafaat kepada Allah
+
+Allah ﷻ baru mengizinkan pemberi syafaat di akhrat nanti, jadi tidak ada gunanya meminta syafaat kepada orang tertentu di dunia ini.
+
+Mintalah syafaat kepada orang tersebut dengan cara berdoa kepada Allah ﷻ agar Allah mengizinkan syafaat orang tersebut kepada kita nanti.
+
 [^1]: [QS. Az-Zumar: 3](https://tafsirweb.com/8665-surat-az-zumar-ayat-3.html)
 
 [^2]: [QS. Yunus: 18](https://tafsirweb.com/3292-surat-yunus-ayat-18.html)
@@ -102,9 +108,3 @@ _Sebuah jembatan akan dibentangkan di atas neraka; dan aku (Nabi) dan umatku aka
 [^6]: [HR. Al-Bukhari: 7510](https://ismailibnuisa.blogspot.com/2018/12/shahih-al-bukhari-hadits-nomor-7509-dan.html)
 
 [^7]: [HR. Muslim: 182](https://www.hadits.id/hadits/muslim/182)
-
-### Mintalah Syafaat kepada Allah
-
-Allah ﷻ baru mengizinkan pemberi syafaat di akhrat nanti, jadi tidak ada gunanya meminta syafaat kepada orang tertentu di dunia ini.
-
-Mintalah syafaat kepada orang tersebut dengan cara berdoa kepada Allah ﷻ agar Allah mengizinkan syafaat orang tersebut kepada kita nanti.
