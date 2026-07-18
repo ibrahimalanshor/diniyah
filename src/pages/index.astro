@@ -3,6 +3,12 @@ import { getCollection } from 'astro:content';
 import Default from '../layouts/Default.astro';
 
 const sections = await getCollection('section');
+
+sections.sort(
+  (a, b) =>
+    new Date(a.data.publishedAt).getTime() -
+    new Date(b.data.publishedAt).getTime(),
+);
 ---
 
 <Default>
