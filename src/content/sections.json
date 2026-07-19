@@ -10,5 +10,11 @@
         "title": "Syarah Al-Qawaid Al-Arba'",
         "description": "Karya Syaikh Muhammad bin Abdul Wahhab (1115-1206 H)",
         "publishedAt": "2026-07-06 06:00:00"
+    },
+    {
+        "id": "syarah-lumatul-itiqad",
+        "title": "Syarah Lum'atul I'tiqad",
+        "description": "Karya Syaikh Ibnu Qudamah al-Maqdisi (541-620 H)",
+        "publishedAt": "2026-07-19 07:00:00"
     }
 ]
