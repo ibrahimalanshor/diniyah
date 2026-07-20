@@ -28,7 +28,7 @@ Kata yang digunakan di dalam Al-Quran adalah tamtsil.
 ليس كمثله شيء
 </p>
 
-_Tidak ada sesuatupun yang serupa dengan Dia (Allah)_. (QS. Asy-Syuara: 11)
+_Tidak ada sesuatupun yang serupa dengan Dia (Allah)_. (QS. Asy-Syuara: 11) [^1]
 
 Tamtsil itu lebih tepat dan lebih menekankan kemiripan terhadap sesuatu.
 
@@ -45,7 +45,7 @@ Sifat yang sulit dipahami ada dua jenis:
 والراسخون في العلم يقولون ءامن به كل من عند ربنا وما يذكر إلا أولوا الباب
 </p>
 
-_Dan orang-orang yang medalam ilmunya berkata: "Kami beriman kepada ayat-ayat yang mutasyabihat, semua itu dari sisi Rabb kami". Dan tidak dapat mengambil pelajaran (daripadanya) melainkan orang-orang yang berakal_. (QS. Ali 'Imran: 7)
+_Dan orang-orang yang medalam ilmunya berkata: "Kami beriman kepada ayat-ayat yang mutasyabihat, semua itu dari sisi Rabb kami". Dan tidak dapat mengambil pelajaran (daripadanya) melainkan orang-orang yang berakal_. (QS. Ali 'Imran: 7) [^2]
 
 ## Tahapan dalam Menetapkan Sifat Allah
 
@@ -79,8 +79,12 @@ Padahal alquran adalah sebaik-baik perkataan yang mudah untuk dipahami.
 
 ## Ta'wil yang Benar dan yang Salah
 
-Ta'wil ada tiga makna:
+Ta'wil ada tiga penggunaan:
 
-1. Tafsir, ini makna yang benar.
-2. Kesudahan atau hakikat, ini makna yang benar.
+1. Tafsir, ini penggunaan yang benar.
+2. Kesudahan atau hakikat, ini penggunaan yang benar.
 3. Menggeser makna dari hakikatnya kepada majas (bukan makna sebenarnya), inilah ta'wil yang tidak boleh dilakukan (tercela).
+
+[^1]: [QS. Asy-Syuara: 11](https://tafsirweb.com/9101-surat-asy-syura-ayat-11.html)
+
+[^2]: [QS. Ali ’Imran: 7](https://tafsirweb.com/1139-surat-ali-imran-ayat-7.html)
