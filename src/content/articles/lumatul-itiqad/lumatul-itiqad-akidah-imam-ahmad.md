@@ -42,6 +42,12 @@ Kayfiyyah turun Allah ﷻ tidak akan dapat diketahui, karena kita belum pernah m
 
 Tidak ada sahabat yang menyanggah sifat turun Allah.
 
+## Penyimpangan dalam Memahami Sifat Nuzul dan Ruy'at Allah
+
+Sebagian kelompok ada yang menafikkan sifat turun Allah ﷻ.
+
+Sebagian kelompok ada yang menafikkan sifat Allah ﷻ bisa dilihat di akhirat nanti.
+
 ## Kaidah Dalam Memahami Sifat Allah
 
 Ada dua sisi pada setiap ada hadis atau ayat yang menunjukan tentang sifat Allah ﷻ:
@@ -63,11 +69,20 @@ Tidak ada sahabat yang mengatakan bahwa Nabi ﷺ tidak mengetahui makna sifat ya
 
 Tapi terkadang Nabi ﷺ tidak perlu menjelaskan panjang lebar maknanya. Karena Nabi sedang berbicara kepada orang Arab yang fasih yang berbahasa arab dan sedang dalam keadaan puncak terbaiknya, sehingga mereka langsung memahami maknanya.
 
-## Penyimpangan dalam Memahami Sifat Nuzul dan Ruy'at Allah
+## Makna Sifat Allah di dalam Al-Quran itu Muhkam
 
-Sebagian kelompok ada yang menafikkan sifat turun Allah ﷻ.
+Ayat di dalam Al-Quran ada yang muhkam dan ada yang mutasyabih.
 
-Sebagian kelompok ada yang menafikkan sifat Allah ﷻ bisa dilihat di akhirat nanti.
+1. Muhkam adalah ayat yang dapat dipahami oleh seluruh kaum musyilim, seperti salat, puasa, dll.
+2. Mutasyabih ada 2:
+   1. Bersifat umum/global: Antara ayat satu dengan yang lain mirip dari sisi keindahan bahasanya.
+   2. Bersifat khusus: Diklaim sebagian orang sulit untuk dipahami.
+
+Ayat tentang sifat adalah muhkam, yaitu dapat dipahami. Yang memahaminya adalah orang-orang yang ilmunya mendalam.
+
+## Tidak Boleh Mensifati Allah Melebihi Apa yang Allah Tetapkan.
+
+Tidak boleh mensifati Allah ﷻ melebihi yang apa yang Allah ﷻ telah tetapkan. Tanpa membatasi atau menetapkan batasan.
 
 ## Contoh Lain: Imam Ahmad Menetapakan Sifat Tertawa Allah
 
