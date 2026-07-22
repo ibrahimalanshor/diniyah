@@ -70,6 +70,21 @@ Setiap perkara yang baru adalah bid'ah dan bid'ah adalah kesesatan.
 
 _Sebaik-baik perkataan adalah kitabullah dan sebaik-baik petunjuk adalah petunjuk Muhammad dan sejelek-jelek perkara adalah (perkara agama) yang diada-adakan, setiap (perkara agama) yang diada-adakan adalah bid'ah dan setiap bid'ah adalah kesesatan_. (HR. Muslim: 867) [^3]
 
+### Selamat Di Sikap Pertengahan
+
+Sikap pertengahan adalah
+
+1. Tidak melampaui para salaf.
+2. Tidak kurang dalam mengikuti para salaf.
+
+### Hati-Hati dengan Pendapat-Pendapat yang Baru
+
+Pendapat-pendapat baru dalam memahami agama mereka menyisipkan metode-metode yang seharusnya tidak digunakan untuk memahami agama, maka hasilnya adalah kekeliruan dan penyimpangan.
+
+Mereka menggunakan retorika, logika, filosofi untuk memahami agama sehingga terlihat luar biasa dan indah, padahal menyimpang.
+
+Maka wajib menjauhinya.
+
 ## Contoh Penerapan Akidah Salaf
 
 Contohnya tentang sifat Allah ﷻ turun, sebagaimana dalam hadis:
