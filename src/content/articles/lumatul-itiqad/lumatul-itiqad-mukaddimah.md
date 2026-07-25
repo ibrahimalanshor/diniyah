@@ -1,55 +1,52 @@
 ---
-title: "Lum'atul I'tiqad: Tentang Kitab"
+title: "Lum'atul I'tiqad: Mukaddimah"
 section: syarah-lumatul-itiqad
-publishedAt: 2026-07-25 05:30:00
+publishedAt: 2026-07-26 06:00:00
 ---
 
-Kitab ini membicarakan akidah Ahlu Sunnah spesifik pada pembahasan Asma dan Sifat Allah ﷻ.
+Penulis memulai kitab dengan _basmalah_ dalam rangka:
 
-Ini adalah ilmu yang sangat utama, karena keutamaan ilmu bergantung pada keutamaan objek yang diilmui. Dan objek yang diilmui dalam hal ini adalah Allah ﷻ.
+1. Mencontoh kitabullah, semua suratnnya diawali dengan _basmalah_ kecuali surat At-Taubah.
+2. Mencontoh rasul, risalahnya diawali dengan _basmalah_.
+3. Mencontoh para salaf, kitabnya diawali dengan _basmalah_.
+4. Meminta pertolongan kepada Allah ﷻ.
+5. Mencari berkah dari Allah ﷻ.
 
-Mengenal Asma dan Sifat adalah penyempurna penghambaan kepada Allah ﷻ karena dapat menumbuhkan pengagungan, kecintaan, rasa harap dan rasa takut kepada Allah ﷻ.
+Penulis memuji Allah ﷻ:
 
-Bicara tentang Allah ﷻ tanpa ilmu adalah dosa yang sangat besar. Inilah sumber dari segala kesesatan.
-
-<p dir="rtl">
-قل إنما حرم ربى الفواحش ما ظهر منها وما بطن ولإثم والبى بغير الحق وأن تشركوا بالله ما لم ينزل به سلطانا وأن تقولوا على الله ما لا تعلمون
-</p>
-
-_Katakanlah: "Tuhanku hanya mengharamkan perbuatan yang keji, baik yang nampak maupun yang tersembunyi, dan perbuatan dosa, melanggar hak manusia tanpa alasan yang benar, (mengharamkan) mempersekutukan Allah dengan sesuatu yang Allah tidak menurunkan hujjah untuk itu dan (mengharamkan) mengada-adakan terhadap Allah apa yang kamu tidak ketahui"_. (QS. Al-A'raf: 33) [^1]
-
-Semua nama Allah ﷻ itu baik, tidak mengandung cacat.
-
-<p dir="rtl">
-ولله الأسماء الحسنى
-</p>
-
-_Hanya milik Allah nama-nama yang paling baik_. (QS. Al-A'raf: 180) [^2]
-
-Nama Allah ﷻ tidak terbatas jumlahnya.
-
-Nabi ﷺ bersabda:
+- Semua pujian kembali kepada Allah ﷻ.
+- Allah ﷻ adalah Rabb yang Disembah di semua tempat.
+- Allah ﷻ tidak memiliki tandingan dan tidak ada yang menyerupai-Nya.
+- Allah ﷻ tidak membutuhkan apapun.
+- Keputusan Allah ﷻ berlaku pada semua makhluk.
+- Allah ﷻ tidak mampu dibayankan oleh pikiran.
 
 <p dir="rtl">
-أسألك بكل اسم هو لك سميت به نفسك أو أنزلته في كتابك أو علمته أحدا من خلقك أو استأثرت به في علم الغيب عندك
+ليس كمثله شيء وهو السميع البصير
 </p>
 
-_Ya Allah, aku memohon kepada-Mu dengan segala nama-Mu yang Engkau menamakan diri-Mu dengan nama-nama tersebut, atau yang telah Engkau ajarkan kepada seseorang dari makhluk-Mu atau yang telah Engkau turunkan dalam kitab-Mu, atau yang masih tersimpan di sisi-Mu_. (HR. Ahmad: 3712) [^3]
+_Tidak ada sesuatupun yang serupa dengan Dia, dan Dialah yang Maha Mendengar lagi Maha Melihat_. (QS. Asy-Syura: 11) [^1]
 
-Adapun nama yang 99 adalah siapa yang menjaganya maka masuk surga. Nabi ﷺ bersabda:
+- Allah ﷻ memiliki nama-nama yang indah dan sifat-sifat yang tinggi.
 
 <p dir="rtl">
-إن لله تسعة وتسعين اسما مائة إلا واحدا من أحصاها دخل الجنة
+الرحمن على العرش استوى (4) له ما في السموت وما فى الأرض وما بينهما وما تحت الثرى (5) وإن تهجر بالقرل فإنه يعلم السر وأخفى (6)
 </p>
 
-_Sesungguhnya Allah memiliki sembilan puluh sembilan nama, yaitu seratus kurang satu, dan barangsiapa yang menghafalnya akan masuk surga_. (HR. Al-Bukhari: 2736) [^4]
+_(Allah) Yang Maha Pemurah. Yang Bersemayam di atas 'Arsy. Milik Dialah semua yang ada di langit dan di bumi, dan apa yang di antara keduanya dan apa yang ada di bawah tanah. Dan jika kamu mengeraskan ucapanmu, maka sungguh Dia mengetahui rahasia dan yang lebih tersembunyi_. (QS. Taha: 4-6) [^2]
 
-Nama dan sifat Allah ﷻ sifatnya _taukifiyyah_, yaitu manusia hanya perlu menerimanya saja.
+- Ilmu dan Rahmat Allah ﷻ luas lagi meliputi segala sesuatu.
 
-[^1]: [QS. Al-A'raf: 33](https://tafsirweb.com/2487-surat-al-araf-ayat-33.html)
+<p dir="rtl">
+يعلم ما بين أيديهم وما خلفهم ولا يحيطون به علما
+</p>
 
-[^2]: [QS. Al-A'raf: 180](https://tafsirweb.com/2634-surat-al-araf-ayat-180.html)
+_Dia mengetahui apa yang ada di hadapan mereka dan apa yang ada di belakang mereka, sedang ilmu mereka tidak dapat meliputi ilmu-Nya_. (QS. Taha: 110) [^3]
 
-[^3]: [HR. Ahmad: 3712](https://bimbinganislam.com/baca-doa-ini-agar-kesedihanmu-hilang)
+- Allah ﷻ disifati dengan sifat yang Dia tetapkan untuk Dirinya sendiri di dalam kitabullah atau melalui lisan Rasulullah ﷺ.
 
-[^4]: [HR. Al-Bukhari: 2736](https://www.hadits.id/hadits/bukhari/2736)
+[^1]: [QS. Asy-Syura: 11](https://tafsirweb.com/9101-surat-asy-syura-ayat-11.html)
+
+[^2]: [QS. Taha: 4-6](https://tafsirweb.com/5249-surat-thaha-ayat-7.html)
+
+[^3]: [QS. Taha: 110](https://tafsirweb.com/5352-surat-thaha-ayat-110.html)
