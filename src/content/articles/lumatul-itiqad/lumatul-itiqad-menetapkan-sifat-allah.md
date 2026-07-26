@@ -1,90 +1,79 @@
 ---
 title: "Lum'atul I'tiqad: Menetapkan Sifat Allah"
 section: syarah-lumatul-itiqad
-publishedAt: 2026-07-19 14:00:00
+publishedAt: 2026-07-27 06:00:00
 ---
 
-Semua sifat Allah ﷻ yang Allah sebutkan sendiri atau disebutkan oleh Rasulnya maka kita wajib menerimanya dan menigimaninya.
+Wajib mengimani semua dan Sifat Allah ﷻ yang disebutkan dalam kitabullah dan sunnah Nabi ﷺ.
 
-1. Tidak boleh menafikan apa yang Allah ﷻ tetapkan.
-2. Tidak boleh menetapkan apa yang Allah ﷻ nafikan.
+Tidak boleh melakukan:
 
-## Sifat Yang Tidak Ditetapkan dan Tidak Dinafikan di dalam Al-Quran dan Hadis
+1. _Ta'til_ (Menolak).
 
-Segala sifat Allah ﷻ yang tidak disebutkan di Al-Quran atau hadis dan tidak ditetapkan atau tidak dinafikan. Maka tidak boleh menetapkan atau menafikan sifat tersebut.
+Karena yang mengabarkannya adalah Allah ﷻ dalam kitabullah dan Nabi ﷺ dan sunnahnya.
 
-Harus ditanyakan terlebih dahulu maknanya. Kalau maknanya benar maka ditetapkan, kalau maknanya salah maka dinafikan.
+2. _Tahrif_ (Mengubah makna/lafadz).
 
-## Larangan dalam Menetapkan Sifat Allah
+Contohnya sifat Allah ﷻ turun, orang yang menyimpang mereka mengubah yang turun adalah rahmat Allah.
 
-Dalam menetapkan sifat Allah ﷻ tidak boleh melakukan tamtsil dan tasybih.
+3. _Takyif_ (Membayangkan bagaimanya bentuknya).
 
-1. Tamtsil adalah serupa dari segala atau banyak sisi.
-2. Tasybih adalah serupa dari satu sisi saja.
+4. _Tasybih/Tamtsil_ (Menyerupakan dengan makhluk).
 
-Kata yang digunakan di dalam Al-Quran adalah tamtsil.
+Karena Allah ﷻ tidak semisal dengan makhluk.
 
 <p dir="rtl">
-ليس كمثله شيء
+ليس كمثله شيء وهو السميع البصير
 </p>
 
-_Tidak ada sesuatupun yang serupa dengan Dia (Allah)_. (QS. Asy-Syuara: 11) [^1]
+_Tidak ada sesuatupun yang serupa dengan Dia, dan Dialah yang Maha Mendengar dan maha Melihat_. (QS. As-Syura: 11) [^1]
 
-Tamtsil itu lebih tepat dan lebih menekankan kemiripan terhadap sesuatu.
+## Tidak Boleh Menetapkan Kaifiyyah Sifat Allah
 
-## Sifat yang Sulit dipahami
+Ada tiga cara untuk bisa menetapkan bagaimana sifat suatu objek:
 
-Sifat Allah ﷻ yang sulit untuk dipahami, maka wajib menetapkan lafadznya dan meninggalkan makna-makna yang rusak dan keliru.
+1. Melihat objeknya.
+2. Melihat yang semisal.
+3. Mendapatkan info yang akurat.
 
-Sifat yang sulit dipahami ada dua jenis:
+Maka pada sifat Allah ﷻ, tidak ada satupun dari cara tersebut yang mampu kita dapati.
 
-1. Sulit dan tidak mungkin dipahami, yaitu tentang bentuk sifat tersebut, karena tidak mungkin bisa melihat Allah ﷻ di dunia.
-2. Sulit dipahami bagi sebagian orang, sebagian orang yang lain dapat memahami sifat tersebut, yaitu orang yang berlimu.
+1. Kita tidak bisa melihat Allah ﷻ.
+2. Tidak ada yang semisal dengan Allah ﷻ.
+3. Allah ﷻ dan Nabi ﷺ tidak ada yang mengabarkan bagaimana sifat Allah ﷺ.
+
+Maka kita serahkan mengimani sifat Allah ﷺ tanpa membayangkan bagaimana bentuknya.
+
+## Sifat Allah Yang Sulit Dipahami
+
+Apabila ada sifat yang susah dipahami, maka hal ini relatif terhadap kedalaman ilmu seseorang.
+
+Ada sifat yang sebagian orang dapat memahaminya ada yang sebagian orang tidak memahaminya.
+
+Orang yang memahaminya adalah orang-orang mendalam ilmunya (_Ar-Raasikhin_):
 
 <p dir="rtl">
-والراسخون في العلم يقولون ءامن به كل من عند ربنا وما يذكر إلا أولوا الباب
+والراسخون في العلم يقولون ءامنا به كل من عند ربنا
 </p>
 
-_Dan orang-orang yang medalam ilmunya berkata: "Kami beriman kepada ayat-ayat yang mutasyabihat, semua itu dari sisi Rabb kami". Dan tidak dapat mengambil pelajaran (daripadanya) melainkan orang-orang yang berakal_. (QS. Ali 'Imran: 7) [^2]
+_Dan orang-orang yang mendalam ilmunya berkata: "Kami beriman kepada ayat-ayat yang mutasyabihat, semua itu dari sisi Rabb kami"_. (QS. Ali 'Imran: 7) [^2]
 
-## Tahapan dalam Menetapkan Sifat Allah
+Sikap mereka terhadap seluruh sifat Allah ﷻ adalah mengimani dan menetapkan secara lafadz dan maknanya, kemudian mengembalikan bagaimanya kepada Allah ﷻ.
 
-1. Lafadznya wajib ditetapkan. (Allah ﷻ memiliki wajah, maka kita tetapkan lafadz wajah).
-2. Maknanya wajib dipahami. (Allah ﷻ memiliki wajah, makna wajah adalah wajah dan telah diketahui makna wajah).
-3. Kaifiyyahnya (bentuk dan hakikatnya) wajib diserahkan kepada Allah ﷻ (Karena kita tidak mungkin tahu bagaimana dan hakikat wajah Allah ﷻ).
+## Tercela Orang yang Mencari Takwil
 
-Kesamaan nama dan makna dalam sifat Allah ﷻ dengan sifat makhluk belum tentu sama bentuknya.
+Allah ﷻ mencela orang yang suka mencari takwil pada sifat Allah ﷻ untuk mencari fitnah dan syubhat: ali imran 7
 
-Misalnya sifat wajah, tangan Allah ﷻ, maka nama dan makanya wajib ditetapkan apa adanya. Tapi bentuknya tidak boleh dibayangkan, dan diserahkan keapada Allah ﷻ.
+<p dir="rtl">
+فأما الذين في قلوبهم زيغ فيتبعون ما تشابه منه التغاء الفتنة وابتغاء تأويله وما يعلم تأويله إلا الله
+</p>
 
-## Penetapan Sifat Allah yang Tersesat
+_Adapun orang-orang yang di dalam hatinya condong kepada kesesatan, maka mereka mengikuti sebagian ayat-ayat yang mutasyabihat daripadanya untuk menimbulkan fitnah untuk mencar-cari takwilnya, padahal tidak ada yang mengetahui takwilnya selain Allah_. (QS. Ali 'Imran: 7) [^3]
 
-Ada tiga kelompok yang tersesat dalam menetapkan sifat Allah ﷻ:
+Orang yang mencari takwil pada dasarnya adalah penentang terhadap sifat Allah ﷻ.
 
-1. (Mujassimah / Musyabbihah) Kelompok yang tersesat dalam kaifiyyat (bentuk/hakikat sifat).
+[^1]: [QS. As-Syura: 11](https://tafsirweb.com/9101-surat-asy-syura-ayat-11.html)
 
-Mereka menyamakan bentuk sifat Allah ﷻ dengan bentuk sifat makhluk. Seperti mereka bilang cara Allah ﷻ beristiwa sama seperti cara makhluk duduk.
+[^2]: [QS. Ali 'Imran: 7](https://tafsirweb.com/1139-surat-ali-imran-ayat-7.html)
 
-2. (Muawwilah) Kelompok yang tersesat dalam menatakwil makna.
-
-Mereka mengubah makna sifat Allah ﷻ. Karena sulit dalam memahami kaifiyyatnya maka maknanya diubah.
-
-Contohnya mereka bilang istiwa maknanya adalah yang menguasai (al-istila). Padahal istiwa dan istila maknanya beda. Istiwa maknanya adalah berada di ketinggian.
-
-3. (Mufawwidhah) Kelompok yang tersesat dengan mengatakan tidak tahu makna sifat.
-
-Mereka menyerahkan makna dan kaifiyyahnya kepada Allah ﷻ, mereka hanya menetapkan lafadznya saja.
-
-Padahal alquran adalah sebaik-baik perkataan yang mudah untuk dipahami.
-
-## Ta'wil yang Benar dan yang Salah
-
-Ta'wil ada tiga penggunaan:
-
-1. Tafsir, ini penggunaan yang benar.
-2. Kesudahan atau hakikat, ini penggunaan yang benar.
-3. Menggeser makna dari hakikatnya kepada majas (bukan makna sebenarnya), inilah ta'wil yang tidak boleh dilakukan (tercela).
-
-[^1]: [QS. Asy-Syuara: 11](https://tafsirweb.com/9101-surat-asy-syura-ayat-11.html)
-
-[^2]: [QS. Ali ’Imran: 7](https://tafsirweb.com/1139-surat-ali-imran-ayat-7.html)
+[^3]: [QS. Ali 'Imran: 7](https://tafsirweb.com/1139-surat-ali-imran-ayat-7.html)
