@@ -46,8 +46,10 @@ _Bagi orang-orang yang berbuat ihsan, ada pahala terbaik (surga) dan tambahannya
 2. Tidak menyerupakan Allah ﷻ dengan makhluk.
 3. Tidak menggambarkan bagaimana sifat Allah ﷻ.
 4. Tidak memaknai sifat Allah ﷻ dengan makna yang tidak sesuai dengan makna asilnya.
-5. Wajib mengimani ayat Al-Quran yang muhkam dan yang mutasyabih.
-6. Ayat yang mutasyabih dikembalikan ke yang muhkam.
+5. Tidak mensifati Allah ﷻ kecuali yang Allah sifati untuk DiriNya ﷻ.
+6. Wajib mengimani ayat Al-Quran yang muhkam dan yang mutasyabih.
+7. Ayat yang mutasyabih dikembalikan ke yang muhkam.
+8. Tidak menolak atau menghilangkan sifat Allah ﷻ meskipun dicela manusia.
 
 Ayat yang muhkam adalah ayat yang mudah dipahami maknanya.
 

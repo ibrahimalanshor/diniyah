@@ -80,11 +80,20 @@ Adapun selain sahabat, maka mereka banyak terjatuh pada:
 
 Maka ahlu sunnah mengikuti para sahabat, yaitu berada di tengah-tengah keduanya. Inilah _sirathal mustaqim_ (jalan yang lurus).
 
-### Nasihat Imam Al-Auza'i
+### Nasihat Imam Abu 'Amr Al-Auza'i
 
 1. Wajib perpegang teguh dengan ajaran salaf.
 2. Selain dari salaf banyak yang fajir, fasik dll.
 3. Hindarilah pendapat-pendapat orang-orang baru meskipun dikemas dengan indah.
+
+## Mendebat Ahlu Bidah
+
+Contoh dialog dari Imam Muhammad bin Abdirrahman Al-Adaramiyyu _rahimahullah_ untuk mendepat ahlu bidah yang mengatakan bahwa Al-Quran adalah makhluk.
+
+1. Apakah Rasulullah ﷺ, Abu Bakar, Umar, Utsman, Ali mengetahui tentang hal tersebut?
+2. Jika mereka menjawab: Mereka tidak tahu. Ini batil, bagaimana mereka lebih mengetahui sesuatu sedangkan Rasulullah dan para sahabat tidak mengetahui.
+3. Apakah Rasulullah ﷺ dan para sahabat mampu membicarakanya tapi tidak mau mendakwahkannya atau mereka tidak mampu?
+4. Jika mereka menjawab: Mereka mampu. Ini batil, bagaimana Rasulullah ﷺ itu merasa cukup (tidak mendakwahkannya) tapi engkau merasa tidak.
 
 [^1]: [HR. Abu Daud: 4607](https://www.hadits.id/hadits/abudawud/4607)
 
