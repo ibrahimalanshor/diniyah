@@ -24,7 +24,8 @@ _Dan janganlah kamu membelanjakan sesuatu melainkan karena mencari Wajah Allah_.
 2. Tidak boleh menafikan sifat Wajah Allah.
 3. Tidak menyerupakan dengan WajahNya dengan wajah makhluk.
 4. Tidak memalingkan makna Wajah dengan makna selain wajah.
-5. Menyerahkan bagaimana hakikat Wajah Allah ﷻ kepada Allah ﷻ.
+5. Tidak menggambarkan bagaimana Wajah Allah ﷻ.
+6. Menyerahkan bagaimana hakikat Wajah Allah ﷻ kepada Allah ﷻ.
 
 Contoh penyimpangan adalah seperti yang dilakukan ahlul bidah mereka berkata Wajah Allah artinya kehendak Allah ﷻ untuk memberikan pahala. Maka ini tidak benar
 
