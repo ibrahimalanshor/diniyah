@@ -65,7 +65,19 @@ _Dan supaya Allah mengadzab orang-orang munafik laki-laki dan perempuan dan oran
 ومن يقتل مؤمنا متعمدا فجزاءه جهنم خالدا فيها وغضب الله عليه ولعنه وأعد له عذابا عظيما
 </p>
 
-_Dan barangsiapa yang membunuh seorang mukmin dengan sengaja maka balasannya adalah Jahannam, ia kekal di dalamnya dan Allah murka kepadanya, dan mengutuknya serta menyediakan azab yang besar baginya_. (QS. An-Nisa: 93) [^5]
+_Dan barangsiapa yang membunuh seorang mukmin dengan sengaja maka balasannya adalah Jahannam, ia kekal di dalamnya dan Allah murka kepadanya, dan mengutuknya serta menyediakan azab yang besar baginya_. (QS. An-Nisa: 93) [^6]
+
+<p dir="rtl">
+ذلك بانهم اتبعوا ما أسخط الله وكرهوا رضوانه فأحبط أعمالهم
+</p>
+
+_Yang demikian itu karena sungguh mereka mengikuti apa yang menimbulkan kemurkaan Allah dan karena mereka membenci keridhaan-Nya, sebab itu Allah menghapus (pahala) amalan-amalan mereka_. (QS. Muhammad: 28) [^7]
+
+<p dir="rtl">
+ولو أرادوا الخروج لأعدوا له عدة ولكن كره الله انبعاثهم فثبطهم وقيل اقعدوا مع القاعدين
+</p>
+
+_Dan jika mereka hendak berangkat, tentulah mereka menyiapkan persiapan untuk keberangkatan itu, tetapi Allah tidak menyukai keberangkatan mereka, maka Allah menginginkan keinginan mereka dan dikatakan kepada mereka: "Tinggalah kamu bersama orang-orang yang tinggal itu"_. (QS. At-Taubah: 46) [^8]
 
 [^1]: [QS. Al-Maidah: 119](https://tafsirweb.com/2003-surat-al-maidah-ayat-119.html)
 
@@ -75,6 +87,10 @@ _Dan barangsiapa yang membunuh seorang mukmin dengan sengaja maka balasannya ada
 
 [^4]: [QS. Al-Maidah: 54](https://tafsirweb.com/2003-surat-al-maidah-ayat-54.html)
 
-[^4]: [QS. Al-Fath: 6](https://tafsirweb.com/9718-surat-al-fath-ayat-6.html)
+[^5]: [QS. Al-Fath: 6](https://tafsirweb.com/9718-surat-al-fath-ayat-6.html)
 
-[^5]: [QS. An-Nisa: 93](https://tafsirweb.com/1625-surat-an-nisa-ayat-93.html)
+[^6]: [QS. An-Nisa: 93](https://tafsirweb.com/1625-surat-an-nisa-ayat-93.html)
+
+[^7]: [QS. Muhammad: 28](https://tafsirweb.com/9664-surat-muhammad-ayat-28.html)
+
+[^8]: [QS. At-Taubah: 46](https://tafsirweb.com/3062-surat-at-taubah-ayat-46.html)
