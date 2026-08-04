@@ -1,10 +1,10 @@
 ---
-title: "Lum'atul I'tiqad: Sifat Turun dan Kagum Allah"
+title: "Lum'atul I'tiqad: Sifat Turun, Kagum dan Tertawa Allah"
 section: syarah-lumatul-itiqad
 publishedAt: 2026-08-04 06:00:00
 ---
 
-Allah ﷻ memiliki sifat turun dan kagum, dengan keagungan dan kemuliaan-Nya.
+Allah ﷻ memiliki sifat turun, kagum dan tertawa, dengan keagungan dan kemuliaan-Nya.
 
 Wajib menetapkan sifat-sifat tersebut dengan cara:
 
@@ -48,8 +48,20 @@ Pemuda yang seperti itu akan mendapatkan naungan Allah ﷻ di akhirat nanti.
 
 _Ada tujuh golongan manusia yang akan dinaungi oleh Allah dalam naungan (Arsy-Nya) pada hari kiamat ketika tidak ada naungan kecuali naungan-Nya: ... dan seorang pemuda yang tumbuh dalam ibadah (ketaatan) kepada Rabb-Nya_. (HR. Al-Bukhari: 6806) [^3]
 
+## Sifat Tertawa Allah
+
+Allah ﷻ memiliki sifat tertawa sebagaimana sabda Nabi ﷺ:
+
+<p dir="rtl">
+يضحك الله إلى رجلين يقتل أحدهما الآخر يدخلان الجنة يقاتل هذا في سبيل الله فيقتل ثم يتوب الله على القاتل فيستشهد
+</p>
+
+_Allah tertawa kepada dua orang lelaki; salah satu dari mereka membunuh yang lainya, dan keduanya masuk surga. Yang satu berjuang di jalan Allah dan terbunuh. Kemudian Allah menerima taubat si pembunuh dan dia juga mati syahid (di jalan Allah)_. (HR. Al-Bukhari: 2826) [^4]
+
 [^1]: [HR. Al-Bukhari: 1145](https://www.hadits.id/hadits/bukhari/1145)
 
 [^2]: [HR. Ahmad: 17371](https://dorar.net/h/0PUUmFEA?osoul=1)
 
 [^3]: [HR. Al-Bukhari: 6806](https://www.hadits.id/hadits/bukhari/6806)
+
+[^4]: [HR. Al-Bukhari: 2826](https://www.hadits.id/hadits/bukhari/2826)
