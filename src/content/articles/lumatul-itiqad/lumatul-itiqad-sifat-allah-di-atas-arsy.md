@@ -75,6 +75,22 @@ Sebagian kaum muslimin mentakwil makna _istiwa_ dengan _istawla_ (berkuasa). Mak
 
 Kalau maknanya menguasai, maka Arsy sebelum itu dikuasai oleh siapa?
 
+Sejatinya, orang yang mentakwil itu melakukan tasybih (menyerupakan) dan ta'til (menolak).
+
+## Hukum Menanyakan Istiwa Allah
+
+Hukumnya bid'ah.
+
+Makna istiwa itu _ma'lum_ diketahui, _ghoriu majhul_ bukan sesuatu yang tidak diketahui.
+
+Tapi bagaimana istiwa Allah ﷻ? Ini tidak diketahui karena:
+
+1. Kita tidak bisa melihat dzat Allah ﷻ.
+2. Tidak ada yang serupa dengan Allah ﷻ.
+3. Tidak ada khabar yang akurat tentang hal tersebut.
+
+Maka menanyakan bagaimana istiwa Allah itu bidah. Sebagaimana yang disampaikan oleh Imam Malik _rahimahullah_ ketika ditanya tentang hal tersebut.
+
 [^1]: [(QS. Taha: 5)](https://tafsirweb.com/5247-surat-thaha-ayat-5.html)
 
 [^2]: [QS. Al-Mulk: 16](https://tafsirweb.com/11044-surat-al-mulk-ayat-16.html)
