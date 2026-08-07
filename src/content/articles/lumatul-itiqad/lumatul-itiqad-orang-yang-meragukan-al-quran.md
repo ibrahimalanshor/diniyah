@@ -52,6 +52,8 @@ Allah ﷻ berfirman:
 
 _Jika kamu (tetap) dalam keraguan tentang Al-Quran yang Kami wahyukan kepada hamba Kami (Muhammad), buatlah satu surat saja yang semisal dengan Al-Quran itu dan ajaklah penolong-penolongmu selain Allah, jika kamu orang-orang yang benar_. (QS. Al-Baqarah: 23) [^5]
 
+Al-Quran berisi hal-hal ghaib yang tidak mungkin diketahui oleh akal pikiran manusia, maka tidak mungkin mereka mampu mendatangkan yang semisal dengan Al-Quran.
+
 ## Mereka Meminta Al-Quran diganti Dengan Yang Lain
 
 Allah ﷻ menetapkan bahwa Al-Quran adalah ayat-ayat yang jelas yang dibacakan kepada mereka, namun mereka meminta Al-Quran yang lain atau meminta Al-Quran itu diganti.

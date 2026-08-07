@@ -43,6 +43,7 @@ _Maha Suci Allah yang telah menurunkan Al-Furqan (Al-Quran) kepada hamba-Nya, ag
 - Al-Quran dibawa turun oleh Jibril kepada Rasullullah ﷺ dengna bahasa arab yang jelas.
 - Al-Quran bermula dari Allah ﷻ dan akan kembali kepada Allah ﷻ.
 - Al-Quran adalah kumpulan surat-surat yang _muhkamat_ (jelas) yang tediri dari huruf dan kalimat.
+- Al-Quran memiliki awal dan akhir dan memiliki pembagian-pembagian.
 - Al-Quran dibaca dengan lisan, terjaga di dalam hati, didengar dengan telinga dan tertulis di dalam mushaf.
 - Al-Quran di dalamnya terdapat ayat yang _muhkam_ (jelas) dan _mutasyabih_ (samar), ada penghapuskan hukum, ada yang bersifat umum dan khusus, berisi perintah dan larangan.
 - Al-Quran dijaga Allah ﷻ sehingga tidak dapat dimasuki kebatilan dari arah manapun.

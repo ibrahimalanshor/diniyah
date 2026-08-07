@@ -34,6 +34,8 @@ QS. Asy-Syura: 1-2 [^4]
 حمٓ (1) عٓسٓقٓ (2)
 </p>
 
+Kalam manusia tersusun dari dari huruf-huruf, begitu pula _kalamullah_ tersusun dari huruf-huruf. Tapi tentu berbeda kalam Al-Khaliq dengan kalam makhluk.
+
 - Membaca setiap huruf dalam Al-Quran dengan irab mendapatkan 10 kebaikan, membaca dengan lahn (kesalahan irab) tetap mendapatkan 1 kebaikan. Nabi ﷺ bersabda:
 
 <p dir="rtl">
