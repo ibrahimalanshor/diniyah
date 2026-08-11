@@ -44,6 +44,14 @@ Diriwayatkan dari Ali _radhiyallahu 'anhu_, dia berkata:
 
 _Yang terbaik dari umat ini setelah Nabinya adalah Abu Bakar radhiyallahu 'anhu kemudian Umar radhiyallahu 'anhu dan seandainya engkau mau akan kuberitahu yang ketiga (Utsman)_. (HR. Ahmad: 879) [^2]
 
+Dalam Hadis lain, Nabi ﷺ bersabda masa kekhilafahan terakhir di Ali _radhiyallahu 'anhu_:
+
+<p dir="rtl">
+الخلافة في أمتي ثلاثون سنة ...
+</p>
+
+_Masa kekhalifahan di umatku adalah tiga puluh tahun ..._. (HR. At-Tirmidzi: 2226) [^3]
+
 ### 1. Abu Bakar
 
 Diriwayatkan dari Abu Darda, Nabi ﷺ bersabda:
@@ -52,7 +60,7 @@ Diriwayatkan dari Abu Darda, Nabi ﷺ bersabda:
 ما طلعت الشمس ولا غربت بعد النبيين والمرسلين على أحد أفضل من أبي بكر ...
 </p>
 
-_Tidaklah matahari terbit dan tenggelam lebih utama setelah para Nabi dan Rasul selain Abu Bakar ..._. (Hilyatul Aulia: 325) [^3]
+_Tidaklah matahari terbit dan tenggelam lebih utama setelah para Nabi dan Rasul selain Abu Bakar ..._. (Hilyatul Aulia: 325) [^4]
 
 Abu Bakar _radhiyallahu 'anhu_ adalah yang paling berhak terhadap kekhilafahan setelah Nabi ﷺ, karena keutamaanya dan keawalannya masuk Islam.
 
@@ -80,12 +88,14 @@ Mereka adalah khulafau rasyidin yang Nabi ﷺ memerintahkan umat untuk mengikuti
 فعليكم بسنتى وسنة الخلفاء المهديين الراشدين تمسكوا بها وعضوا عليها بالنواجد
 </p>
 
-_Wajib bagi kalian mengikuti sunnahku dan sunnah para khilafah yang mendapatkan petunjuk. Berpeganglah padanya dan gigitlah dengan geraham kalian_. (HR. Abu Dawud: 4607) [^4]
+_Wajib bagi kalian mengikuti sunnahku dan sunnah para khilafah yang mendapatkan petunjuk. Berpeganglah padanya dan gigitlah dengan geraham kalian_. (HR. Abu Dawud: 4607) [^5]
 
 [^1]: [HR. Abu Dawud: 4628](https://www.hadits.id/hadits/abudawud/4628)
 
 [^2]: [HR. Ahmad: 879](https://sunnah.com/ahmad:879)
 
-[^3]: [Hilyatul Aulia: 325](https://dorar.net/h/YM9VQzHc?osoul=1#)
+[^3]: [HR. At-Tirmidzi: 2226](https://ismailibnuisa.blogspot.com/2019/07/sunan-at-tirmidzi-hadits-nomor-2226.html)
 
-[^4]: [HR. Abu Dawud: 4607](https://www.hadits.id/hadits/abudawud/4607)
+[^4]: [Hilyatul Aulia: 325](https://dorar.net/h/YM9VQzHc?osoul=1#)
+
+[^5]: [HR. Abu Dawud: 4607](https://www.hadits.id/hadits/abudawud/4607)
