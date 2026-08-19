@@ -6,6 +6,8 @@ publishedAt: 2026-08-13 05:45:00
 
 Mencintai para sahabat Nabi ﷺ dan ridha terhadap istri-istri Nabi ﷺ _radhiyallahu 'anhum_ adalah termasuk sunnah.
 
+Yang tidak melakukan hal tersebut maka menyelisihi sunnah Nabi, dan termasuk ahlul bidah.
+
 ## Mencintai Para Sahabat Nabi
 
 Termasuk sunnah mencintai para sahabat Nabi ﷺ _radhiyallahu 'anhum_:
@@ -34,7 +36,7 @@ Allah ﷻ berfirman:
 
 _Muhammad adalah utusan Allah dan orang-orang yang bersama dengannya adalah keras terhadap orang-orang kafir tetapi berkasih sayang kepada sesama mereka_. (QS. Al-Fath: 29) [^2]
 
-Nabi ﷺ bersabda:
+Tidak boleh mencela para sahabat Nabi, Nabi ﷺ bersabda:
 
 <p dir="rtl">
 لا تسبوا أصحابى فلو أن أحدكم أنفق مثل أحد ذهبا ما بلغ مد أحدهم ولا نصيفه
@@ -55,11 +57,13 @@ Termasuk sunnah adalah ridha terhadap istri-istri Nabi ﷺ _radhiyallahu 'anhunn
 
 ## Muawiyah
 
-Muawiah _radhiyallahu 'anhu_ adalah sahabat Nabi ﷺ.
+Muawiah _radhiyallahu 'anhu_ adalah sahabat Nabi ﷺ, wajib mencintainya.
 
 - Dia adalah paman kaum mukminin.
 - Dia adalah penulis wahyu Allah ﷻ.
 - Dia adalah salah satu khalifah kaum muslimin.
+
+Orang-orang syiah mereka membenci muawiah. Mereka adalah ahlul bidah.
 
 [^1]: [QS. Al-Hasyr: 10](https://tafsirweb.com/10808-surat-al-hasyr-ayat-10.html)
 
