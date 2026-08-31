@@ -141,6 +141,12 @@ _Dan Kami turunkan kepadamu Al-Quran, agar kamu menerangkan pada umat manusia ap
 
 Maka dalil dalam agama adalah Al-Quran dan Sunnah.
 
+## Prinsip Sunnah: Tidak Ada Qiyas Fasid dalam Sunnah
+
+Tidak ada qiyas fasid dalam sunnah. Qiyas fasid adalah analogi yang bertentangan dengan sunnah, analogi yang batil.
+
+Tidak boleh memahami sunnah hanya dengan akal dan hawa nafsu, wajib memahami sunnah dengan mengikuti apa yang datang dari Nabi.
+
 [^1]: [HR. Ibnu Majah: 203](https://www.hadits.id/hadits/ibnmajah/203)
 
 [^2]: [QS. An-Nisa: 115](https://tafsirweb.com/1647-surat-an-nisa-ayat-115.html)
