@@ -22,5 +22,11 @@
         "title": "Syarah Ushul Sunnah",
         "description": "Karya Imam Ahmad bin Hambal (164-241 H)",
         "publishedAt": "2026-08-29 06:00:00"
+    },
+    {
+        "id": "syarah-syarhu-sunnah",
+        "title": "Syarah Syarhu Sunnah",
+        "description": "Karya Imam Al-Muazani (175-264 H)",
+        "publishedAt": "2026-09-19 06:00:00"
     }
 ]
