@@ -16,5 +16,11 @@
         "title": "Syarah Lum'atul I'tiqad",
         "description": "Karya Imam Ibnu Qudamah al-Maqdisi (541-620 H)",
         "publishedAt": "2026-07-19 07:00:00"
+    },
+    {
+        "id": "syarah-ushul-sunnah",
+        "title": "Syarah Ushul Sunnah",
+        "description": "Karya Imam Ahmad bin Hambal (164-241 H)",
+        "publishedAt": "2026-08-29 06:00:00"
     }
 ]
