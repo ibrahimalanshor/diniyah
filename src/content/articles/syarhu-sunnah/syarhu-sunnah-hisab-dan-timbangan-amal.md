@@ -181,6 +181,76 @@ Urutan masuk surga:
 
 Orang kaya masuk surga belakangan, karena bagi orang kaya ada banyak yang harus dihisab.
 
+## Nikmat Surga
+
+Penguni surga kemudian mendapatkan beragam nikmat surga.
+
+<p dir="rtl">
+فلا تعلم نفس ما أخفى لهم من قرة أعين جزاء بما كانوا يعملون
+</p>
+
+_Tak seorangpun mengetahui berbagai nikmat yang menanti, yang indah dipandang sebagai balasan bagi mereka, atas apa yang mereka kerjakan_. (QS. As-Sajdah: 17) [^12]
+
+Mereka tidak merasa lelah dan tidak akan pernah dikeluarkan dari surga.
+
+<p dir="rtl">
+لا يمسهم فيها وما هم منها بمخرجين
+</p>
+
+_Mereka tidak merasa lelah di dalamnya dan mereka sekali-kali tidak akan dikeluarkan darinya_. (QS. Al-Hijr: 48) [^13]
+
+> Lelah hanya ada di dunia, akan berhenti di surga.
+
+## Orang Beriman Melihat Allah
+
+Melihat wajah Allah ﷻ adalah nikmat bagi penduduk surga.
+
+Mereka tidak berdesak-desakan dalam melihat wajah Allah ﷻ. Dan wajah mereka sendiri berseri-seri.
+
+<p dir="rtl">
+وجوه يومئذ ناضرة (22) إلى ربها ناظرة (23)
+</p>
+
+_Wajah-wajah (orang-orang mukmin) pada hari itu berseri-seri. Kepada Rabb-nya lah mereka melihat_. (QS. Al-Qiyamah: 23) [^14]
+
+Melihat wajah Allah ﷻ adalah tambahan nikmat bagi penduduk surga.
+
+<p dir="rtl">
+للذين أحسنوا الحسنى وزيادة
+</p>
+
+_Bagi orang yang berbuat baik, ada pahala terbaik (surga) dan tambahannya_. (QS. Yunus: 26) [^15]
+
+## Nasib Orang Kafir
+
+Nasib orang-orang kafir, mereka tidak bisa melihat wajah Allah ﷻ.
+
+<p dir="rtl">
+كلا إنهم عن ربهم يومئذ لمحجوبون
+</p>
+
+_Sekali-kali tidak, sungguh mereka pada hari itu benar-benar tertutup dari Rabb mereka_. (QS. Al-Muthaffifin: 15) [^16]
+
+Kemudian mereka akan dibakar di api neraka.
+
+<p dir="rtl">
+لبئس ما قدمت لهم أنفسهم أن سخط الله عليهم وفى العذاب هم خالدون
+</p>
+
+_Sungguh amat buruklah apa yang mereka sediakan untuk mereka sendiri, yaitu kemurkaan Allah kepada mereka; dan mereka akan kekal dalam siksaan_. (QS. Al-Ma'idah: 80) [^17]
+
+Mereka akan terus disiksa di neraka dan mereka tidak akan pernah mati.
+
+<p dir="rtl">
+والذين كفروا لهم نار حهنم لا يقضى عليهم فيموتوا ولا يخفف عنهم من عذابها
+</p>
+
+_Dan orang-orang kafir bagi mereka Jahannam. Mereka tidak dibinasakan sehingga mereka mati dan tidak (pula) diringankan dari mereka adzabnya_. (QS. Fathir: 36) [^18]
+
+## Orang yang Bertauhid Tidak Kekal di Neraka
+
+Orang yang ahli maksiat namun masih bertauhid ada yang masuk neraka, namun mereka tidak kekal di dalamnya dan akan dikeluarkan menuju surga.
+
 ## Doa Dimudahkan Dalam Hisab
 
 Dari Aisyah _radhiyallahu 'anha_. Nabi ﷺ berkata:
@@ -189,7 +259,7 @@ Dari Aisyah _radhiyallahu 'anha_. Nabi ﷺ berkata:
 اللهم حاسبنى حساب يسيرا
 </p>
 
-_Ya Allah hisablah aku dengan hisab yang mudah_. (HR. Ahmad: 6/48) [^12]
+_Ya Allah hisablah aku dengan hisab yang mudah_. (HR. Ahmad: 6/48) [^19]
 
 [^1]: [QS. Al-Ma'arij: 4](https://tafsirweb.com/11300-surat-al-maarij-ayat-4.html)
 
@@ -213,4 +283,18 @@ _Ya Allah hisablah aku dengan hisab yang mudah_. (HR. Ahmad: 6/48) [^12]
 
 [^11]: [QS. At-Tahrim: 8](https://tafsirweb.com/11012-surat-at-tahrim-ayat-8.html)
 
-[^12]: [HR. Ahmad: 6/48](https://rumaysho.com/1511-ya-allah-hisablah-aku-dengan-hisab-yang-mudah.html#_ftn1)
+[^12]: [QS. As-Sajdah: 17](https://tafsirweb.com/7569-surat-as-sajdah-ayat-17.html)
+
+[^13]: [QS. Al-Hijr: 48](https://tafsirweb.com/4198-surat-al-hijr-ayat-48.html)
+
+[^14]: [QS. Al-Qiyamah: 23](https://tafsirweb.com/11671-surat-al-qiyamah-ayat-23.html)
+
+[^15]: [QS. Yunus: 26](https://tafsirweb.com/3300-surat-yunus-ayat-26.html)
+
+[^16]: [QS. Al-Muthaffifin: 15](https://tafsirweb.com/12267-surat-al-muthaffifin-ayat-15.html)
+
+[^17]: [QS. Al-Ma'idah: 80](https://tafsirweb.com/1964-surat-al-maidah-ayat-80.html)
+
+[^18]: [QS. Fathir: 36](https://tafsirweb.com/7902-surat-fatir-ayat-36.html)
+
+[^19]: [HR. Ahmad: 6/48](https://rumaysho.com/1511-ya-allah-hisablah-aku-dengan-hisab-yang-mudah.html#_ftn1)
