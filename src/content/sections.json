@@ -28,5 +28,11 @@
         "title": "Syarah Syarhu Sunnah",
         "description": "Karya Imam Al-Muazani (175-264 H)",
         "publishedAt": "2026-09-19 06:00:00"
+    },
+    {
+        "id": "syarah-al-wajibat",
+        "title": "Syarah Al-Wajibat",
+        "description": "Karya Syaikh Abdullah bin Ibrahim Al-Qar'awi (1315-1389 H)",
+        "publishedAt": "2026-10-22 04:00:00"
     }
 ]
