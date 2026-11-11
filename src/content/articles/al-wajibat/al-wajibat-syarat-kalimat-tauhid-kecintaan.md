@@ -20,6 +20,8 @@ _Dan di antara manusia ada orang-orang yang menyembah tandingan-tandingan selain
 
 _Wahai orang-orang yang beriman, barangsiapa di antaramu murtad dari agamanya, maka kelak Allah akan mendatangkan suatu kaum yang Allah mencintai mereka dan merekapun mencintai-Nya, yang bersikap lemah lembut terhadap orang yang mukmin, yang bersikap keras terhadap orang-orang kafir, yang berjihad di jalan Allah, dan yang tidak takut kepada celaan orang yang suka mencela_. (QS. Al-Maidah: 54) [^2]
 
+## Hasil Cinta Pada Tauhid
+
 Hasil dari cinta pada kalimat tauhid adalah nikma manisnya iman.
 
 Dari Anas bin Malik _radhiyallahu 'anhu_, Nabi ﷺ bersabda.

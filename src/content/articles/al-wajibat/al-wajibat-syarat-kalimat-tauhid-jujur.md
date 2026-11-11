@@ -24,6 +24,8 @@ Dari Abu Darda _radhiyallahu 'anhu_, Nabi ﷺ bersabda:
 
 _Janganlah kamu menyekutukan Allah dengan sesuatu apapun, meskipun lehermu akan dipenggal atau dirimu akan dibakar_. (HR. Ibnu Majah: 4034) [^2]
 
+## Pengakuan Yang Palsu
+
 Orang-orang munafik mereka mengucapkan kalimat _laa ilaaha illallah_, tetapi ucapan mereka palsu, ucapan mereka dengan apa yang ada di dalam hati mereka dan kenyataan mereka itu berbeda.
 
 <p dir="rtl">
@@ -31,6 +33,8 @@ Orang-orang munafik mereka mengucapkan kalimat _laa ilaaha illallah_, tetapi uca
 </p>
 
 _Di antara manusia ada yang mengatakan: "Kami beriman kepada Allah dan hari akhir" padahal mereka itu sungguh bukan orang-orang yang beriman. Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka hanya menipu dirinya sendiri sedang mereka tidak sadar. Dalam hati mereka ada penyakit, lalu Allah tambah penyakitnya; dan bagi mereka siksa yang pedih, disebabkan mereka berdusta_. (QS. Al-Baqarah: 8-10) [^3]
+
+## Surga Bagi Orang Yang Jujur
 
 Hasil kejujuran dalam mengucapkan kalimat _laa ilaaha illallah_ adalah surga.
 

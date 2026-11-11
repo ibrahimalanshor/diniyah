@@ -24,6 +24,8 @@ Orang kafir quraisy tahu bahwa menerima kalimat tauhid berarti meninggalkan semu
 
 _Sungguh mereka dahulu apabila dikatakan kepada mereka: "Tiada sesembahan yang berhak disembah selain Allah" mereka menyombongkan diri. Dan mereka berkata: "Apakah sungguh kami harus meninggalkan sesembahan-sesembahan kami karena seorang penyair gila?"_. (QS. Ash-Shoffat: 35-36) [^2]
 
+## Permisalan Orang Dalam Menerima Dakwah Tauhid
+
 Nabi ﷺ memisalkan petunjuknya seperti air hujan, dan manusia seperti tanah.
 
 Maka manusia ada beberapa jenis dalam menerima petunjuk Nabi, sebagaimana tanah ada beberapa jenis ketika terkena air hujan.

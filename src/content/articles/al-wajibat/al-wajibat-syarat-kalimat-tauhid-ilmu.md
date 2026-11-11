@@ -24,6 +24,8 @@ _Maka ketahuilah, bahwa sesungguhnya tiada sesembahan (yang berhak disembah) sel
 
 _Dan sesembahan-sesembahan yang mereka sembah selain Allah tidak dapat memberi syafaat; akan tetapi (orang yang dapat memberi syafaat) adalah orang yang mengakui hak (kalimat laa ilaaha illallah) dan mereka meyakininnya_. (QS. Az-Zukhruf: 86) [^2]
 
+## Surga Bagi Yang Berilmu
+
 Hasil dari ilmu kepada kalimat _laa ilaaha illallah_ adalah surga. Dari Utsman bin Affan _radhiyallahu 'anhu_, Nabi ﷺ bersabda:
 
 <p dir="rtl">

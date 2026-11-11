@@ -12,6 +12,8 @@ Kitab ini adalah kitab akidah, berisi beberapa kewajiban yang wajib diketahui ol
 
 Kitab ini adalah bagian dari pelajaran tauhid.
 
+## Keutamaan Tauhid
+
 Tauhid adalah perkara yang wajib diketahui setiap muslim dam muslimah. Karena itulah tujuan penciptaan manusia.
 
 <p dir="rtl">

@@ -32,6 +32,8 @@ _Dan barangsiapa yang menyerahkan dirinya kepada Allah, sedang dia orang yang be
 
 Buhul tali yang kokoh adalah kalimat tauhid.
 
+## Ketundukan Menunjukkan Keimanan
+
 Keimanan tidak terpenuhi kecuali dengan.
 
 1. Berhukum harus dengan hukum Nabi ﷺ.

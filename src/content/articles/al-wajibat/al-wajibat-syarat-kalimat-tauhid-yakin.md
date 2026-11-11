@@ -30,6 +30,8 @@ Begitupun orang muslim, mereka sangat yakin kepada Allah ﷻ, janji dan pertolon
 
 _Dan ketika orang-orang yang beriman melihat golongan-golongan yang bersekutu itu, mereka berkata: "Inilah yang dijannjikan Allah dan Rasul-Nya kepada kita". Dan benarlah Allah dan Rasul-Nya. Dan yang demikian itu tidaklah menambah kepada mereka kecuali iman dan ketundukan_. (QS. Al-Ahzab: 22) [^2]
 
+## Orang Munafik Tidak Yakin
+
 Adapun orang munafik, mereka tidak yakin, mereka ragu dan bimbang.
 
 <p dir="rtl">
@@ -43,6 +45,8 @@ _Mereka dalam keadaan ragu-ragu antara yang demikian (iman atau kafir); tidak ma
 </p>
 
 _Dan (ingatlah) ketika orang-orang munafik dan orang-orang yang berpenyakit dalam hatinya berkata: "Allah dan Rasul-Nya tidak menjanjikan kepada kami kecuali tipu daya"_. (QS. Al-Ahzab: 12) [^4]
+
+## Surga Bagi Yang Yakin
 
 Hasil orang yakin adalah surga.
 

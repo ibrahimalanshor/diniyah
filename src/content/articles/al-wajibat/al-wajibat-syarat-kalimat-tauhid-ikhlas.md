@@ -24,6 +24,8 @@ _Padalah mereka tidak diperintah kecuali supaya menyembah Allah dengan memurnika
 
 Contoh orang yang tidak ikhlas adalah orang kafir quraisy, mereka beribadah kepada Allah ﷻ, tapi mereka juga beribadah kepada selain-Nya.
 
+## Keutamaan Ikhlas
+
 Beberapa keutamaan ikhlas dalam kalimat _laa ilaaha illallah_:
 
 Dari Abu Hurairah _radhiyallahu 'anhu_, Nabi ﷺ bersabda:
