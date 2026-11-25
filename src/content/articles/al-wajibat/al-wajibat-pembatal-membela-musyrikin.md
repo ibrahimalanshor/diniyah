@@ -1,7 +1,7 @@
 ---
-title: 'Al-Wajibat: Pembatal Islam : Sihir'
+title: 'Al-Wajibat: Pembatal Islam : Membela Musyrikin'
 section: syarah-al-wajibat
-publishedAt: 2026-11-23 05:00:00
+publishedAt: 2026-11-24 05:00:00
 ---
 
 Di antara tuntutan dari kalimat tauhid adalah tegaknya al wara dan bara.
