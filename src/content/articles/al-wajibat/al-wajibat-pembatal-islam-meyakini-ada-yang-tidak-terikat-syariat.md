@@ -28,6 +28,8 @@ Dari Jabir bin Abdillah _radhiyallahu 'anhuma_, Nabi ﷺ bersabda:
 
 _Seandainya Musa masih hidup niscaya tidak diperkenankan baginya kecuali dia harus mengikutiku_. (HR. Ahmad: 15156) [^2]
 
+## Kasus Pada Khitr
+
 Sebagian orang berdalil pada Khitr yang tidak mengikuti syariat Nabi Musa. Padahal para Nabi sebelumnya diutus hanya untuk kaumnya sendiri. Sedangkan Nabi ﷺ diutus untuk seluruh umat manusia.
 
 Dari Jabir bin Abdillah _radhiyallahu 'anhuma_, Nabi ﷺ bersabda:
